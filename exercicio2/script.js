@@ -17,13 +17,7 @@ console.log("**********************");
 
 // C
 
-function frase(string) {
-  console.log(`tem ${string.length} letras`);
-  console.log(string.toUpperCase());
-}
 
-frase("Gustavo");
-console.log("**********************");
 //D
 
 function junto(string) {
